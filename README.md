@@ -108,3 +108,4 @@ $ cd ${terraform_project_directory}/
 $ terraform init
 $ terraform validate
 ```
+ 
